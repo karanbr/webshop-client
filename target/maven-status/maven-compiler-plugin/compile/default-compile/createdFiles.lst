@@ -1,0 +1,7 @@
+de/leuphana/webshop/webshopclient/client/CustomerClient.class
+de/leuphana/webshop/webshopclient/model/ArticleDto.class
+de/leuphana/webshop/webshopclient/model/CustomerDto$CustomerDtoBuilder.class
+de/leuphana/webshop/webshopclient/model/CustomerDto.class
+de/leuphana/webshop/webshopclient/WebshopClientApplication.class
+de/leuphana/webshop/webshopclient/client/ShopClient.class
+de/leuphana/webshop/webshopclient/model/ArticleDto$ArticleDtoBuilder.class
