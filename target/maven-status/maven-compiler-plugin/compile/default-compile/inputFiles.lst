@@ -4,3 +4,4 @@
 /Users/karan/Documents/Code/IntelliJ/Spring boot test/webshop-client/src/main/java/de/leuphana/webshop/webshopclient/WebshopClientApplication.java
 /Users/karan/Documents/Code/IntelliJ/Spring boot test/webshop-client/src/main/java/de/leuphana/webshop/webshopclient/client/ShopClient.java
 /Users/karan/Documents/Code/IntelliJ/Spring boot test/webshop-client/src/main/java/de/leuphana/webshop/webshopclient/client/package-info.java
+/Users/karan/Documents/Code/IntelliJ/Spring boot test/webshop-client/src/main/java/de/leuphana/webshop/webshopclient/config/BlockingRestTemplateCustomizer.java

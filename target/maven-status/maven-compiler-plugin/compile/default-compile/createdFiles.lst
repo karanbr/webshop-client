@@ -1,4 +1,5 @@
 de/leuphana/webshop/webshopclient/client/CustomerClient.class
+de/leuphana/webshop/webshopclient/config/BlockingRestTemplateCustomizer.class
 de/leuphana/webshop/webshopclient/model/ArticleDto.class
 de/leuphana/webshop/webshopclient/model/CustomerDto$CustomerDtoBuilder.class
 de/leuphana/webshop/webshopclient/model/CustomerDto.class
