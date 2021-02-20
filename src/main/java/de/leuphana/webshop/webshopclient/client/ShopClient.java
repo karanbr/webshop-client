@@ -4,7 +4,7 @@ import de.leuphana.webshop.webshopclient.model.ArticleDto;
 import de.leuphana.webshop.webshopclient.model.CustomerDto;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
-import org.springframework.boot.context.properties.ConfigurationProperties;
+// import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
@@ -13,7 +13,7 @@ import java.net.URI;
 import java.util.UUID;
 
 @Component
-@ConfigurationProperties(value = "de.leuphana.shop", ignoreUnknownFields = false)
+// @ConfigurationProperties(value = "de.leuphana.shop", ignoreUnknownFields = false)
 @EnableAutoConfiguration(exclude = {DataSourceAutoConfiguration.class})
 public class ShopClient {
 
